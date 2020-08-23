@@ -3,4 +3,4 @@
 this is my first project/first time coding and I don't really know what I'm doing.
 
 ## Zeke
-![](IMG-8526.jpg)
+![](img-8526.png)
