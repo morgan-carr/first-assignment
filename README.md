@@ -1,6 +1,5 @@
-# first-assignment
+# wicked-problems
 
-this is my first project/first time coding and I don't really know what I'm doing.
-
+here's my dog!!!
 ## Zeke
 ![](IMG-8526.JPG)
