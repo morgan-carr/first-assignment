@@ -4,7 +4,7 @@
 ![](runningboy.png)
 
 # Section 2 Practice
-![](pathbetweenhomes1.png)
+![](pathbtwnhomes.png)
 
 # Xspline Plot
 ![](xsplinegraph.png)
