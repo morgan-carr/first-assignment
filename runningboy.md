@@ -5,4 +5,3 @@
 
 # Challenge Question
 ![](challengequestion.png)
-
