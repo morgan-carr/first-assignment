@@ -1,7 +1,7 @@
 # Liberia Data
 
 # Data Used
-[counties_src]()
+[counties src data](data_lab.txt)
 
 # Barplots
 ![](percentfemale.png)
