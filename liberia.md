@@ -1,9 +1,9 @@
 # Liberia Data
 
-# Data Used
+## Data Used
 [counties src data](data_lab.txt)
 
-# Barplots
+## Barplots
 ![](percentfemale.png)
 
 ![](popdensity.png)
