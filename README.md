@@ -6,3 +6,4 @@ Hello! My name is Morgan Carr, and I'm from Richmond, VA. I'm hoping to study En
 # Project Index
 1. [R Studio Practice 8/24/2020](runningboy.md)
 2. [Data Management Basics 8/28/2020](liberia.md)
+3. [Lab 1, Pt. 1 9/2/2020](lab1pt1.md)
