@@ -1,13 +1,13 @@
 # R & R Studio Practice
 
-# Running Boy 
+## Running Boy 
 ![](runningboy.png)
 
-# Section 2 Practice
+## Section 2 Practice
 ![](pathbtwnhomes.png)
 
-# Xspline Plot
+## Xspline Plot
 ![](xsplinegraph.png)
 
-# Challenge Question
+## Challenge Question
 ![](challengeq.png)
