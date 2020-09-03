@@ -7,3 +7,10 @@
 ## Deliverable 2
 ![](Plot1.png)
 > This graph gives the information on how many doctorate level programs there are per region. The differing colors and bars correspond to the states within each region. 
+
+## Deliverable 3
+![](Plot2.png)
+
+
+## Deliverable 4
+![](Plot3.png)
