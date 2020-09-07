@@ -1,16 +1,20 @@
 # Lab 1 Part 1
 
-## Deliverable 1
-![](Plot.png)
-> This graph gives the information on how many four year colleges there are per region. The differing colors and bars correspond to the states within each region. 
-
-## Deliverable 2
-![](Plot1.png)
-> This graph gives the information on how many doctorate level programs there are per region. The differing colors and bars correspond to the states within each region. 
-
-## Deliverable 3
-![](Plot2.png)
+## Total Admissions to Colleges Offering at Least a 4-Year Degree
+![](ttlapp4.png) 
 
 
-## Deliverable 4
-![](Plot3.png)
+## Total Admissions to Colleges Offering at Least Doctoral Degrees
+![](ttlappd.png)
+
+
+## Total Enrollment to Colleges Offering at Least a 4-Year Degree
+![](ttlenrl4.png)
+
+
+## Total Enrollment to Colleges Offering at Least a 4-Year Degree
+![](ttlenrld.png)
+
+
+## Total Enrollment to Colleges By Region and State
+![](ttlenrlt.png)
