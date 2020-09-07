@@ -15,6 +15,5 @@
 ## Total Enrollment to Colleges Offering at Least a Doctoral Degree
 ![](ttlernld.png)
 
-
 ## Total Enrollment to Colleges By Region and State
 ![](plot4.png)
