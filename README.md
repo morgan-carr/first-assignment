@@ -9,3 +9,4 @@ Hello! My name is Morgan, and I'm from Richmond, VA. I'm hoping to study Environ
 2. [Data Management Basics 8/28/2020](liberia.md)
 3. [Lab 1, Pt. 1 9/2/2020](lab1pt1.md)
 4. [Data Reflection 1 9/11/2020](reflection1.md)
+5. [Lab 1, Pt. 2 9/14/2020](lab1pt2.md)
