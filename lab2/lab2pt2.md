@@ -22,7 +22,7 @@
 ![](unh.png)
 
 ## Matrix Plot
-![](matrixplot.png)
+<img src="matrixplot.png" width="700" height="600" /> 
 
 ## Statistical Analysis
 ![](stockstat.png)
