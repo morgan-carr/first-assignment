@@ -1,11 +1,11 @@
 # Lab 2, Part 2: Stocks
 
 ## Stocks Raw Data
-#### Response Variable
+### Response Variable
 ##### DXC Technologies 
 ![](dxc.png)
 
-#### Predictor Variables
+### Predictor Variables
 ##### Anthem Blue Cross Blue Shield Insurance 
 ![](antm.png)
 
