@@ -26,7 +26,7 @@
 
 ## Matrix Plot
 <img src="matrixplot.png" width="700" height="600" /> 
-> The above plot is an analysis of the relationship between DXC and the predictor stocks. There doesn't appear to be a strong correlation between the predictor stocks and the response stock, however, there does appear to be one between United and Anthem Healthcare.
+The above plot is an analysis of the relationship between DXC and the predictor stocks. There doesn't appear to be a strong correlation between the predictor stocks and the response stock, however, there does appear to be one between United and Anthem Healthcare.
 
 ## Statistical Analysis
 ![](stockstat.png)
