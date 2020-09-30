@@ -1,6 +1,6 @@
 # Data Science Reflection 2
 ## Computational Ethnography and Curation of Data for Chronic Pain and Invisible Disability
-<img align = left src = "wong_baker_faces-56a6e17b5f9b58b7d0e53979.gif">
+<img align = left src = "chronic-pain-model.png">
 Chronic pain is an umbrella term used to describe a multitude of complicated “biopsychosocial, environmental, and subjective” medical ailments that affect over 100 million Americans today (Moore, 2020). Due to so many individuals suffering from chronic pain, the approximated cost is nearly $635 billion annually, and yet there is still no “objective measurement” for the detection of chronic clinical pain intensity (Moore, 2020). In recent years, AI methods have been developed to aide in tracking pain for chronic pain patients. These methods include virtual pain diaries, and predictive software for pain spikes. Despite the common nature of pain as a symptom and disease, it’s incredibly difficult to accurately discuss and quantify. In the US, pain is “an important source of morbidity, personal and social suffering” that leads to difficulty in treatment due to a fluid and deeply personal definition of pain (Moore, 2020). Ethical conundrums and fairness “in the context of pain and invisible disability” lead to RWD methods and computational ethnography employment for collection of data and application of knowledge (Moore, 2020). 
 
 <img align = center src = "wong_baker_faces-56a6e17b5f9b58b7d0e53979.gif">
