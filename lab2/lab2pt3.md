@@ -23,6 +23,4 @@
 ### Matrix
 ![](stretchmatrix.png)
 ### Return Plot
-![](sportfreturn.png)
 ### Growth Plot
-<img src= "sportfgrowth.png" width = "1200" height = "800" />
