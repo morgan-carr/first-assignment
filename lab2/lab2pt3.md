@@ -23,4 +23,6 @@
 ### Matrix
 ![](stretchmatrix.png)
 ### Return Plot
+![](sportfreturn.png)
 ### Growth Plot
+![](sportfgrowth.png)
