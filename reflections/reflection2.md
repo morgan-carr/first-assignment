@@ -5,6 +5,7 @@ Chronic pain is an umbrella term used to describe a multitude of complicated “
 <img align = center src = "wong_baker_faces-56a6e17b5f9b58b7d0e53979.gif">
 
 A major issue that comes to light when dealing with chronic pain and the collection of data is the large number of pain scales that are used worldwide. Some of the most popular include NRS (numerical rating scale), Wong-Baker Faces Scale, and VRS (verbal rating scale) (Jacques, 2020). According to NCBI, NRS and VRS are the most effective and reliable pain scales in use today. Because these scales are simple to understand and use, pain diaries are used for patients with chronic pain so that their health care team can have the ability to gather a better insight into how daily activities affect pain (Danise, 2013). With virtual pain diaries gaining more popularity, health care professionals can send out more in-depth questionnaires to their patients when there are peaks in pain. This allows for patients and their health care team have a better understanding on how certain activities affect the patient. 
+
 <img align = left src = "chronic-pain-model.png">
 
-![](dethno.jpg)
+<img align = center src = "dethno.jpg" height = "200" width = "300")
