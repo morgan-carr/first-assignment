@@ -25,4 +25,4 @@
 ### Return Plot
 ![](sportfreturn.png)
 ### Growth Plot
-<img src= "sportfgrowth.png" width = "600" height = "400" />
+<img src= "sportfgrowth.png" width = "1200" height = "800" />
