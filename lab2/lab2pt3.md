@@ -26,3 +26,4 @@
 ![](stockreturn.png)
 ### Growth Plot
 ![](stockgrowth.png)
+> In this plot with the stretch goal stocks, there was about a $5,000 profit by using the weigths specified in the subtitle. This is a significantly higher profit than the stocks I used for the main part of this lab, since these are all retail locations instead of healthcare companies. 
