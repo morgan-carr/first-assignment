@@ -8,4 +8,4 @@ A major issue that comes to light when dealing with chronic pain and the collect
 
 <img align = left src = "chronic-pain-model.png">
 
-<img align = center src = "dethno.jpg" height = "200" width = "300")
+<img align = center src = "dethno.jpg" width = "300"  height = "200" />
