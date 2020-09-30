@@ -15,6 +15,7 @@ These advancements are so important to the healthcare field for multiple reasons
 The image above is an example of EEG readings on a patient with epilepsy (Wang, Long, Arends, & Aarts, 2017).
 
 
+### Works Cited
 
 Roy, S., Asif, U., Tang, J., & Harrer, S. (2019). Machine learning for seizure type classification: 
 
