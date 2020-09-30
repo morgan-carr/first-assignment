@@ -23,4 +23,6 @@
 ### Matrix
 ![](stretchmatrix.png)
 ### Return Plot
+![](stockreturn.png)
 ### Growth Plot
+![](stockgrowth.png)
