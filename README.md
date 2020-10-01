@@ -13,4 +13,4 @@ Hello! My name is Morgan, and I'm from Richmond, VA. I'm hoping to study Data Sc
 6. [Lab 2, Pt. 1 9/21/2020](lab2/lab2pt1.md)
 7. [Lab 2, Pt. 2 9/28/2020](lab2/lab2pt2.md)
 8. [Lab 2, Pt. 3 10/3/2020](lab2/lab2pt3.md)
-9. [Data Reflection 2 10/2/2020](reflections/.md)
+9. [Data Reflection 2 10/2/2020](reflections/reflection2.md)
