@@ -33,9 +33,9 @@ The above plot is an analysis of the relationship between DXC and the predictor 
 > According to the statistical analysis above, there is a very weak correlation between all of the predictor stocks and the response stock. There is a weak negative correlation CVS and LabCorp and DXC. There is a weak positive correlation between the rest of the predictors and DXC. The pVolume values indicate the volume of the stock that was traded during the three months that the data was pooled from. Pfizer has the largest of these values while LabCorp has the lowest. The rValue numbers indicate the predictive properties of the predictive stocks on the response. Of the predictors, United Health and CVS had the highest values, which means they were the best predictors, while LabCorp had the lowest value.
 
 ## Delt Matrix Plot
-![](.png)
-> This plot describes the percent change in the predictor stocks relative to the response stock. 
+![](deltmatrix1.png)
+> This plot describes the percent change in the predictor stocks relative to the response stock. This data is very similar to the data from above.
 
 ## Delt Statistical Analysis
-![](.png)
+![](deltstocc.png)
 > This is the statistical analysis of the delt stock data.
