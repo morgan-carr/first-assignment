@@ -7,4 +7,4 @@
 ### Stretch Goal 1
 #### Map of Tbilisi
 
-![](.png)
+![](tbilisi.png)
