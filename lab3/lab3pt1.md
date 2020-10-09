@@ -2,7 +2,7 @@
 
 ### Map of Georgia
 
-![](georgia.png)
+![](gggeorgia.png)
 
 ### Stretch Goal 1
 #### Map of Tbilisi
