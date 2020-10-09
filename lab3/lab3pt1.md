@@ -12,4 +12,4 @@
 ![](ajaria.png)
 
 ### Map of Abkhazia
-![](adkhazia.png)
+![](abkhazia.png)
