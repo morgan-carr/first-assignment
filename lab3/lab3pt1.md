@@ -4,6 +4,10 @@
 
 ![](gggeorgia.png)
 
+## Stretch Goal 1
+### Data from GeoBoundaries
+![](geogeorgia.png)
+
 ## Stretch Goal 2
 ### Map of Tbilisi
 ![](tbilisi.png)
