@@ -12,8 +12,8 @@
 ### Map of Tbilisi
 ![](tbilisi.png)
 
-### Map of Ajaria
-![](ajaria.png)
+### Map of Adjara
+![](.png)
 
 ### Map of Abkhazia
-![](abkhazia.png)
+![](.png)
