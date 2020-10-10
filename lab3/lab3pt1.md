@@ -23,8 +23,11 @@
 ### Map of Georgia with Details
 
 ## Stretch Goal 4
-### Map of Georgia with ADM1 + Population
+### Map of Georgia with ADM1 & Population
 ![](ggeo_pop19.png)
 
-### Map of Georgia with ADM2 + Population
+### Map of Georgia with ADM2 & Log Population
 ![](2geo_pop19.png)
+
+### Map of Georgia with ADM1, ADM2, & Log Population
+![](loggeo.png)
