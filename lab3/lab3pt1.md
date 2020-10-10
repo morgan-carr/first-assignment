@@ -13,7 +13,15 @@
 ![](tbilisi.png)
 
 ### Map of Adjara
-![](.png)
+![](ajaria.png)
 
 ### Map of Abkhazia
-![](.png)
+![](abkhazia.png)
+
+
+## Stretch Goal 3
+### Map of Georgia with Details
+
+## Stretch Goal 4
+### Map of Georgia with Basic Population Data
+![](geo_pop19.png)
