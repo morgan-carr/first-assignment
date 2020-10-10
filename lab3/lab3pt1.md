@@ -24,4 +24,4 @@
 
 ## Stretch Goal 4
 ### Map of Georgia with Basic Population Data
-![](geo_pop19.png)
+![](ggeo_pop19.png)
