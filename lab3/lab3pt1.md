@@ -32,3 +32,4 @@
 ![](loggeo.png)
 
 ### Gif of Georgia Population Density
+![](georgia1adms.gif)
