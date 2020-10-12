@@ -17,9 +17,9 @@
 ### Map of Abkhazia
 ![](abkhazia.png)
 
-
 ## Stretch Goal 3
 ### Map of Georgia with Details
+
 
 ## Stretch Goal 4
 ### Map of Georgia with ADM1 & Population
