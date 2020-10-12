@@ -19,7 +19,7 @@
 
 ## Stretch Goal 3
 ### Map of Georgia with Details
-
+![](details.png)
 
 ## Stretch Goal 4
 ### Map of Georgia with ADM1 & Population
