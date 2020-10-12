@@ -30,3 +30,5 @@
 
 ### Map of Georgia with ADM1, ADM2, & Log Population
 ![](loggeo.png)
+
+### Gif of Georgia Population Density
