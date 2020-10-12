@@ -2,6 +2,7 @@
 ## Part 1
 ### Map of Georgia
 ![](gggeorgia.png)
+> This map shows the Country of Georgia (located between Turkey and Russia, and next to the Black Sea) divided into 12 regions, and 69 districts. 
 
 ## Part 2
 ### Data from GeoBoundaries
