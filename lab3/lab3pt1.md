@@ -17,5 +17,8 @@
 ### Map of Abkhazia
 ![](abkhazia.png)
 
+### Map of Tbilisi and Mtskheta-Mtianeti
+![](twoarea.png)
+
 ### Map of Georgia with Details
-![](ggdetail.png)
+![](georgiafinaldetails.png)
