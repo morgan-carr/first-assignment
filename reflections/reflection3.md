@@ -14,3 +14,5 @@ Okoli, C., & Pawlowski, S. D. (2004). The Delphi method as a research tool: an e
 Romanelli, J.R., Earle, D.B. Single-port laparoscopic surgery: an overview. Surg Endosc 23, 1419–1427 (2009). https://doi.org/10.1007/s00464-009-0463-x 
 
  Rowe and Wright (1999): The Delphi technique as a forecasting tool: issues and analysis. International Journal of Forecasting, Volume 15, Issue 4, October 1999. 
+
+Vogel, C., Zwolinsky, S., Griffiths, C. et al. A Delphi study to build consensus on the definition and use of big data in obesity research. Int J Obes 43, 2573–2586 (2019). https://doi.org/10.1038/s41366-018-0313-9
