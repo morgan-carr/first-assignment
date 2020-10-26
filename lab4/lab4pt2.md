@@ -2,7 +2,7 @@
 
 ### Plot of Both Georgia and Barplot
 ![](liberia.png)
-> 
+> In this plot, there is a side by side image of the population represented in a barplot and a geospatial image of the country of Georgia. 
 
 [Larger Image of Plot](liberia.png)
 
