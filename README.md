@@ -16,3 +16,5 @@ Hello! My name is Morgan, and I'm from Richmond, VA. I'm hoping to study Data Sc
 9. [Lab 2, Pt. 3 10/3/2020](lab2/lab2pt3.md)
 10. [Data Reflection 3 10/16/2020- Laparoscopic Surgery and Delphi Analysis](reflections/reflection3.md)
 11. [Lab 3, Pt. 1&2 10/17/2020](lab3/lab3pt1.md)
+12. [Lab 4, Pt. 1 10/24/2020](lab4/lab4pt1.md)
+13. [Lab 4, Pt. 2 10/31/2020](lab4/lab4pt2.md)
