@@ -1,8 +1,8 @@
 # Power Law in Geoscience
 
-![](zipfsgraph.png)
-![](pareto.jpg)
-![](power-law-basic.gif)
+<img align= "left" src="zipfsgraph.png" width="210" height="140" /> 
+<img align= "left" src="pareto.jpg" width="210" height="140" /> 
+<img align= "left" src="power-law-basic.gif" width="210" height="140" /> 
 
 
 ### Here's a great video on the topic of Zipf's Law and Power Law Distribution
