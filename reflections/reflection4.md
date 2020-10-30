@@ -1,6 +1,6 @@
 # Power Law in Geoscience
 
-<img align= "left" src="zipfsgraph.png" width="210" height="140" /> 
+<img align= "left" src="zipfsgraph.png" width="600" height="400" /> 
 <img align= "left" src="pareto.jpg" width="210" height="140" /> 
 <img align= "left" src="power-law-basic.gif" width="210" height="140" /> 
 
