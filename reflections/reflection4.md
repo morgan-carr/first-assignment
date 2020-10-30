@@ -15,3 +15,13 @@ Similar to the prior two laws, Pareto’s law describes a wide array of topics w
 [![Zipf's Mystery; Vsauce](zlimg.png)](https://www.youtube.com/watch?v=fCn8zs912OE)
 
 ## Works Cited
+Adamic, L. A. (n.d.). Zipf, Power-laws, and Pareto - a ranking tutorial. Retrieved October 29, 2020, from https://www.hpl.hp.com/research/idl/papers/ranking/ranking.html
+Basic Power Law [Digital image]. (2016). Retrieved October 29, 2020, from https://exploitingchange.com/wp-content/uploads/2016/09/power-law-basic.gif
+Corral, Á, & González, Á. (2019, May 31). Power Law Size Distributions in Geoscience Revisited. Retrieved October 29, 2020, from https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018EA000479
+Making Big Data Small Data - the Role of Power Laws: Data Science: Near Tech Blog: Near - Blog. (2020, May 07). Retrieved October 30, 2020, from https://blog.near.co/technology/making-big-data-small-data-the-role-of-power-laws/ 
+Masrai, A. (2006). Zipf's Distribution, log-log graph [Digital image]. Retrieved October 29, 2020, from https://www.researchgate.net/profile/Ahmed_Masrai/publication/292132735/figure/fig1/AS:322609200812032@1453927435272/Zipf-distribution-log-log-graph-for-types-across-the-web-based-corpus-Sharoff-2006.png
+Melinda, B. (2018, January 26). Q&A: Geoffrey West on the universal laws of growth. Retrieved October 29, 2020, from https://physicstoday.scitation.org/do/10.1063/pt.6.4.20180126a/full/
+Milojcic, M. (2018, December 4). Pareto Principle [Digital image]. Retrieved October 29, 2020, from https://www.teodesk.com/wp-content/uploads/2018/12/2.jpg
+Pareto principle. (2020, October 25). Retrieved October 30, 2020, from https://en.wikipedia.org/wiki/Pareto_principle 
+Stevens, M. (Director). (2015, September 15). The Zipf Mystery [Video file]. Retrieved October 29, 2020, from https://www.youtube.com/watch?v=fCn8zs912OE
+Zipf's law. (2020, October 11). Retrieved October 29, 2020, from https://en.wikipedia.org/wiki/Zipf's_law
