@@ -6,7 +6,7 @@
 ### Night Time Lights
 ![](ntldensitygraph.png)
 ![](ntlspatialgraph.png)
-> The two plots above describe the 'night time lights' of Georgia. There is a major disparity between Tiblisi and the rest of the country. 
+> The two plots above describe the 'night time lights' of Georgia. There is a major disparity between Tiblisi and the rest of the country. This is because Tiblisi is the capitol of Georgia, and is the biggest city in the country. Tiblisi has the highest population and is different from the rural and small towns that occupy most of the rest of the country. As you can see in the second of the two plots, 
 
 ### Water
 ![](waterdensitygraph.png)
