@@ -20,3 +20,4 @@ Hello! My name is Morgan, and I'm from Richmond, VA. I'm hoping to study Data Sc
 13. [Data Reflection 4 10/30/2020- Power Law in Geoscience](reflections/reflection4.md)
 14. [Lab 4, Pt. 2 10/31/2020](lab4/lab4pt2.md)
 15. [Lab 5 11/11/2020](lab5/lab5.md)
+16. [Final Data Reflection: Data Science Analysis](reflections/finalreflection.md)
