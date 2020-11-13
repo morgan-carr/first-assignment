@@ -1,6 +1,6 @@
 # Final Data Science Reflection:
 
-##### How is the advent of data science serving to advance our understanding of complex adaptive, economic, and social systems?
+### How is the advent of data science serving to advance our understanding of complex adaptive, economic, and social systems?
 
 ​	In the very short life of data science, this field of science has done an incredible amount in the    analysis of human development and behavior. The use of big data analysis has lead to the ability of data scientists to use mathematics to take preexisting data from many sources and create predictive models of human behavior. Everything from population growth to urbanization to economics can be analyzed through any number of data science methods that can in turn change the way we interact with the world.
 
