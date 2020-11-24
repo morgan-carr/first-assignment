@@ -7,11 +7,6 @@ Describe the area and identify large clusters of population and explain why the 
 > 107840
 
 ### Accessability 2: transportation facilities & health care services
-##### Roads
-![](roads_geo.png)
-[larger image of plot](roads_geo.png)
-
-##### Health Care Facilities
 ![](healthytogether.png)
 [larger image of plot](healthytogether.png)
 
