@@ -1,16 +1,19 @@
 # Final Project
 ### Accessability 1: De facto description of human settlements and urban areas
-urbanarrea.png
+![](urbanarrea.png)
+[larger image of plot](urbanarrea.png)
 
 Describe the area and identify large clusters of population and explain why the populatoin is so low and spread out
 > 107840
 
 ### Accessability 2: transportation facilities & health care services
 ##### Roads
-roads_geo.png
+![](roads_geo.png)
+[larger image of plot](roads_geo.png)
 
 ##### Health Care Facilities
-healthytogether.png
+![](healthytogether.png)
+[larger image of plot](healthytogether.png)
 
 ###### Total population of selected and combined adm2, adm3 or adm4 areas and the total number of distinctly defined human settlements or urban areas
 ###### A description of the distribution of sizes and densities of all human settlements and urban areas throughout your selected and combined adm2, adm3 or adm4 areas
