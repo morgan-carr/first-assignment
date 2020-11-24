@@ -11,7 +11,7 @@ Describe the area and identify large clusters of population and explain why the 
 [larger image of plot](healthytogether.png)
 
 ###### Total population of selected and combined adm2, adm3 or adm4 areas and the total number of distinctly defined human settlements or urban areas
->
+> The total population for the subdivisions of this part of Georgia is 107,840. In this large area of land, there appears to be 
 ###### A description of the distribution of sizes and densities of all human settlements and urban areas throughout your selected and combined adm2, adm3 or adm4 areas
 > 
 ###### A description of the roadways and your estimate of the transportation networks level of service in comparison to the spatial distriubtion of human settlements and urban areas
