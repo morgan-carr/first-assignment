@@ -17,7 +17,8 @@ Describe the area and identify large clusters of population and explain why the 
 
 
 ### Accessability 3: Rendering Topography
-
+![](mytp[p.png)
+[larger image of plot]()
 ###### How has topography appeared to have impacted the development of urban areas?
 ###### How has topography appeared to have impacted the development of transportation facilities?
 ###### How has topography appeared to have impacted the location of health care facilities?
